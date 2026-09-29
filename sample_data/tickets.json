@@ -1,0 +1,50 @@
+[
+  {
+    "subject": "Production API returning 500s",
+    "customer": "Enterprise plan - Acme Corp",
+    "message": "Since about 20 minutes ago every call to /v2/orders returns a 500. Our checkout is completely down and we are losing sales every minute. Please get someone on this NOW."
+  },
+  {
+    "subject": "Charged twice this month",
+    "customer": "Pro plan - jane@smallshop.io",
+    "message": "Hi, I noticed two charges of $49 on my card for September. Could you refund the duplicate when you get a chance? Thanks!"
+  },
+  {
+    "subject": "Can't log in after enabling 2FA",
+    "customer": "Free plan",
+    "message": "I turned on two-factor auth yesterday and lost my phone. Now I'm locked out of my account. How can I recover access?"
+  },
+  {
+    "subject": "Pricing for 200 seats",
+    "customer": "Prospect - Globex",
+    "message": "We're evaluating your product for our team of about 200 people. Do you offer volume discounts or an enterprise plan with SSO? Would love a demo next week."
+  },
+  {
+    "subject": "This is the third time I'm asking",
+    "customer": "Business plan - Initech",
+    "message": "This is the THIRD ticket about the broken CSV export and nobody has fixed it. Honestly this is ridiculous. If it isn't working by Friday we're cancelling and moving to your competitor."
+  },
+  {
+    "subject": "Possible data breach?",
+    "customer": "Business plan - Umbrella Health",
+    "message": "One of our users says they could see another company's invoices in their dashboard. This could be a serious privacy issue for us under HIPAA. Our legal team wants a written explanation."
+  },
+  {
+    "subject": "Love the new dashboard",
+    "customer": "Pro plan",
+    "message": "Just wanted to say the new analytics dashboard is fantastic, our whole team is using it daily. Quick question: is there a way to export charts as PNG?"
+  },
+  {
+    "subject": "Boost your SEO rankings 300%!!!",
+    "message": "Dear sir/madam, we are a leading SEO agency. We can get your website to page 1 of Google in 7 days guaranteed. Reply now for a free audit and 50% discount!!!"
+  },
+  {
+    "subject": "Webhook delays",
+    "customer": "Pro plan - devteam@startup.dev",
+    "message": "Our webhooks have been arriving 5-10 minutes late since this morning. Not critical yet, we can poll the API as a workaround, but wanted to flag it."
+  },
+  {
+    "subject": "Question",
+    "message": "hey is this the right place to ask about stuff"
+  }
+]
